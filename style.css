@@ -17,7 +17,7 @@ body {
 }
 
 #cabecalho {
-    background: url("./images/cabecalho_bolo.jpg");
+    background: url("./cabecalho_bolo.jpg");
     background-size: cover;
     background-position: center;
     height: 400px;
@@ -60,16 +60,16 @@ h2 {
 }
 
 .ingredientes {
-    cursor: url("./images/cursor_ingredientes.png"), auto;
+    cursor: url("./cursor_ingredientes.png"), auto;
 }
 
 .preparo {
-    cursor: url("./images/cursor_preparo.png"), auto;
+    cursor: url("./cursor_preparo.png"), auto;
 
 }
 
 .instrucoes {
-    cursor: url("./images/cursor_intrucoes.png"), auto;
+    cursor: url("./cursor_intrucoes.png"), auto;
 }
 
 a {
